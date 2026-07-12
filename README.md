@@ -1,5 +1,5 @@
 # 📦 PrestaCosa - Plataforma de Préstamos Vecinales
-
+Cadena de conexión a la base de datos: https://drive.google.com/drive/folders/1y-y_eNYckaU4S5y9DOqk9NYh6Fdshdb8?usp=sharing
 PrestaCosa es una aplicación web diseñada para fomentar la economía circular y la colaboración comunitaria. Permite a los vecinos prestar y pedir prestados objetos cotidianos (herramientas, artículos deportivos, electrodomésticos, etc.) que normalmente solo se usan una vez o muy pocas veces, ahorrando dinero y cuidando el medio ambiente.
 
 ## ✨ Características Principales
